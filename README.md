@@ -5,7 +5,7 @@ This is a full-stack MERN (MongoDB, Express, React, Node.js) authentication syst
 
 ---
 
-## 💡 Why Hire Me?
+## 💡 
 - **Full-Stack Expertise:** Proficient in React, Node.js, Express, MongoDB, REST APIs, JWT authentication, and secure web app architecture.
 - **AI Web Developer:** Experience integrating AI tools, APIs, and models into web applications (OpenAI, Hugging Face, TensorFlow.js, etc.).
 - **Modern UI/UX:** Skilled in building responsive, accessible, and visually appealing interfaces.
